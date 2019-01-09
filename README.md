@@ -1,27 +1,6 @@
 # Be.IO
 
-[![Build Status](https://travis-ci.org/jamesqo/Be.IO.svg?branch=master)](https://travis-ci.org/jamesqo/Be.IO) [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/jamesqo/Be.IO?branch=master&svg=true)](https://ci.appveyor.com/project/jamesqo/be-io)
-
 Be.IO is a fast big-endian implementation of .NET's BinaryReader and BinaryWriter.
-
-## Installation
-
-    Install-Package Be.IO
-
-## Supported Platforms
-
-Just about every platform is supported, including:
-
-- .NET Framework 4.5+
-- Windows 10 Universal apps
-- Portable Class Libraries
-- ASP.NET Core
-- Xamarin.iOS
-- Xamarin.Android
-- Mono (Mac/Linux)
-- Windows 8.1 and 8.0
-- Windows Phone 8.1
-- Silverlight
 
 ## Getting Started
 
